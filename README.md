@@ -1,4 +1,4 @@
-# Responsive SSR Webpage with SEO Optimization
+# Appscrip-Assignment
 
 This project demonstrates a functional webpage built with **HTML** & **CSS**, and a functional version developed using **React.js**. It supports **Server Side Rendering (SSR)**, is fully responsive for mobile and tablet devices, and incorporates SEO best practices.
 
